@@ -27,7 +27,7 @@
 <a href="https://twitter.com/introtographics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="introtographics" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-karimul-islam-83410b1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="introtographics" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-karimul-islam-83410b1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked.svg" alt="introtographics" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
