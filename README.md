@@ -1,14 +1,12 @@
 
 
-
- 
-
 <h1 align="center">Hi 👋, I'm Md karimul islam</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkarimul&label=Profile%20views&color=0e75b6&style=flat" alt="mdkarimul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/introtographics" target="blank"><img src="https://img.shields.io/twitter/follow/introtographics?logo=twitter&style=for-the-badge" alt="introtographics" /></a> </p>
+<p align="left"> Introduction
+</p>
 
 
 
