@@ -1,5 +1,5 @@
 
-[![logo](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
+![logo](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
 <h1 align="center">Hi 👋, I'm Md karimul islam</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkarimul&label=Profile%20views&color=0e75b6&style=flat" alt="mdkarimul" /> </p>
