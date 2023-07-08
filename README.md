@@ -6,10 +6,10 @@
 
 | Language | Level |
 |---:|---------------|
-|   1|    jave script     |
-|   2|    python          |
-|   3|    java            |
-|   4|    php             | 
+|  1 |    Jave script   |
+|  2 |    Java          |
+|  3 |    Python        |
+|  4 |    Php           | 
 
 
 
