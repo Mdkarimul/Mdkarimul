@@ -26,16 +26,8 @@ Hi, I'm karimul. You might recognize me as GitHub's mascot.
 
 
 
-
-
-
-
-
-
-
-
 # 💫 About Me:
-🔭 I’m currently working on Full-stack project<br>👯 I’m looking to collaborate on Angular node<br>🤝 I’m looking for help with to collaborate<br>🌱 I’m currently learning Devops<br>💬 Ask me about How to build large scale projects<br>⚡ Fun fact I enjoying to write code
+🔭 I’m currently working on Full-stack project<br>👯 I’m looking to collaborate on --Angular node--<br>🤝 I’m looking for help with to collaborate<br>🌱 I’m currently learning Devops<br>💬 Ask me about How to build large scale projects<br>⚡ Fun fact I enjoying to write code
 
 
 ## 🌐 Socials:
