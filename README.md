@@ -9,7 +9,7 @@
 
 
 ## MOSTLY I LIKE 
-
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
 | Language | Level |
 |---:|---------------|
 |  1 |    Jave script   |
