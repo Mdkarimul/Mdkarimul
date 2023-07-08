@@ -1,4 +1,4 @@
-<!-- <div style=" font-size: medium; color: #000444" align=center>
+ <div style=" font-size: medium; color: #000444" align=center>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Brijesh+Vadaliya+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Web+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+expertise+%F0%9F%93%88;In+building+full-Stack+infrastructures+%E2%9A%99%EF%B8%8F" alt="Brijesh Vadalia" width="650" height="55">
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- -->
+ 
 
 <h1 align="center">Hi 👋, I'm Md karimul islam</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
