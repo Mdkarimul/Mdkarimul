@@ -12,7 +12,7 @@
 Hi, I'm karimul. You might recognize me as GitHub's mascot.
 | Language | Level |
 |---:|---------------|
-|  1 |    Jave script   |
+|  1 |    Java script   |
 |  2 |    Java          |
 |  3 |    Python        |
 |  4 |    Php           | 
