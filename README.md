@@ -7,7 +7,7 @@
 <h3 align="left" style="background:accessibility:;color:red;"> Wellcome to my profile !!
 </h3>
 
-## MOSTLY I LIKE kjkj
+## MOSTLY I LIKE 
 Hi, I'm karimul. You might recognize me as GitHub's mascot.
 | Language | Level |
 |---:|---------------|
